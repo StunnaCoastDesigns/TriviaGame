@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/90striviaimage1.jpg");
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+    h1 {
+        font-weight: 700;
+        color: rgb(252, 227, 9);
+    }
+
+    main-container {
+        width: 960px;
+    }
+
+    #gamebody {
+        padding: 30px;
+    }
+
+    #start {
+        color: #fc7d28;
+    }
